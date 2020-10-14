@@ -1,5 +1,8 @@
 package pokerhand;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Card {
     String value;
     String suit;
